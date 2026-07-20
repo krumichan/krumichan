@@ -16,7 +16,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,
 I build practical products with backend architecture, modern frontend technologies, AI, and cloud infrastructure.
 
 <p align="center">
-  <img width="100%" src="https://github.com/krumichan/krumichan/blob/main/assets/bg1.jpg?raw=true" alt="Banner" />
+  <img width="100%" src="https://github.com/krumichan/krumichan/blob/master/assets/bg1.jpg?raw=true" alt="Banner" />
 </p>
 
 </div>
