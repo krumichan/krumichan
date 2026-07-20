@@ -16,7 +16,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,
 I build practical products with backend architecture, modern frontend technologies, AI, and cloud infrastructure.
 
 <p align="center">
-  <img width="100%" src="https://github.com/krumichan/krumichan/blob/master/assets/bg1.jpg?raw=true" alt="Banner" />
+  <img width="100%" src="https://github.com/krumichan/krumichan/blob/master/assets/bg2.png?raw=true" alt="Banner" />
 </p>
 
 </div>
@@ -75,6 +75,10 @@ FrontendとBackendを設計し、テストからデプロイまでつなげる�
 |  ⚙️ Backend  | [CatPjt-TranslaCat-be](https://github.com/krumichan/CatPjt-TranslaCat-be)     | Spring BootベースのAPIおよびビジネスロジック |
 | 🤖 AI Server | [CatPjt-TranslaCat-ai](https://github.com/krumichan/CatPjt-TranslaCat-ai)     | FastAPIベースのOCR・AI処理サーバー       |
 | 📚 Documents | [CatPjt-TranslaCat-docs](https://github.com/krumichan/CatPjt-TranslaCat-docs) | 要件、設計およびプロジェクトドキュメント          |
+
+<p align="center">
+  <img width="100%" src="https://github.com/krumichan/krumichan/blob/master/assets/bg1.png?raw=true" alt="Banner" />
+</p>
 
 <br/>
 
